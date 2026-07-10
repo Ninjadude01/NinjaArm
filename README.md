@@ -12,7 +12,7 @@ NinjaArm is a custom robotic arm with 3 degrees of freedom + a claw. It uses an 
 ## Schematic Diagram
 ![1](Wiring/Screenshot%202026-07-09%20203520.png)
 
-## Assebmly Guide
+## Assembly Guide
 1. Purchase all materials listed in the BOM, and print all needed parts from the CAD folder.
 2. Align the heatset inserts in the correct locations and use a soldering iron set to 200℃ to slowly push them into place.
 3. Place the 4 potentiometers into the knob case, put the lid ontop, and screw it into place.
