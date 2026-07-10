@@ -1,4 +1,4 @@
-# NinjaArm — Journal Export
+# NinjaArm — Journal 
 
 ## Entry 1
 - ID: 2123
