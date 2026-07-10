@@ -36,4 +36,3 @@ NinjaArm is a custom robotic arm with 3 degrees of freedom + a claw. It uses an 
 |  |  |  |  |  |  |
 |  |  |  | Total | $99.47 |  |
 
-_Generated with [ChatDB](https://www.chatdb.ai/tools/csv-to-markdown-table)_
