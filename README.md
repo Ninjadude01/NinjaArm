@@ -13,6 +13,16 @@ NinjaArm is a custom robotic arm with 3 degrees of freedom + a claw. It uses an 
 ![1](Wiring/Screenshot%202026-07-09%20203520.png)
 
 ## Assebmly Guide
+1. Purchase all materials listed in the BOM, and print all needed parts from the CAD folder.
+2. Align the heatset inserts in the correct locations and use a soldering iron set to 200℃ to slowly push them into place.
+3. Place the 4 potentiometers into the knob case, put the lid ontop, and screw it into place.
+4. Place the arduino and servo board onto their respective spots on the display stand, and cover them with the lids.
+5. Insert a servo into the base, main arm, and claw arm, and use the 6mm m2 screw to secure them. Insert the micro servo into the claw arm and screw that in as well.
+6. Connect the micro servo horn to a claw using screws, align the second claw in the correct location, and quickly place the claw connector beneath it (screw this in as well).
+7. Grab a servo horns and use 4 metal self tapping screws to secure it to its corresponding robo arm part. Repeat this two more times.
+8. Use the servo horn screws to connect all three horns to their servos.
+9. Download the .ino file found in the firmware folder, and flash it onto your arduino.
+10. Use the potentiometers to control the arms, and enjoy playing with your very own NinjaArm!
 
 ## BOM
 
