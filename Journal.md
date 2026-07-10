@@ -1,9 +1,5 @@
 # NinjaArm — Journal Export
 
-- Exported at: 2026-07-10T10:57:30Z
-- Project ID: 1990
-- Entries: 22
-
 ## Entry 1
 - ID: 2123
 - Author: Jason
