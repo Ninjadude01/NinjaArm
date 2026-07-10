@@ -14,8 +14,6 @@ NinjaArm is a custom robotic arm with 3 degrees of freedom + a claw. It uses an 
 
 ## Assebmly Guide
 
-## Firmware Flashing Steps
-
 ## BOM
 
 | Item | Part Name | Quantity | Description | Cost (USD) | Link |
